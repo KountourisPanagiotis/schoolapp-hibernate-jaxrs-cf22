@@ -1,5 +1,7 @@
 # schoolapp-hibernate-jaxrs-cf22
-Athens Univercity of Economics and Business (AUEB) - Chapter 30
+
+## Athens Univercity of Economics and Business (AUEB)
+Java - Chapter 30. Java Persistence API (JPA) - Hibernate
 
 ## Project info
 - School Application for managment of Admin , Users , Teachers , Students.
@@ -18,3 +20,5 @@ To install and run the project, follow these steps:
 Run and connect to database. Login either as : 
 1. Admin : manage Teachers and Users. Search - Insert - Update - Delete functionality
 2. Teacher : search for 
+
+(admin password is pulled for matching from system environmental variables)
