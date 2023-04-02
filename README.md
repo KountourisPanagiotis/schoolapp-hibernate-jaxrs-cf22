@@ -1,7 +1,7 @@
 # schoolapp-hibernate-jaxrs-cf22
 
-## Athens Univercity of Economics and Business (AUEB)
-Java - Chapter 30. Java Persistence API (JPA) - Hibernate
+## Athens Univercity of Economics and Business ([AUEB](https://aueb.gr/))
+A [Coding Factory](https://codingfactory.aueb.gr/) - [AUEB](https://aueb.gr/) Java Project. Chapter 30. Java Persistence API (JPA) - Hibernate
 
 ## Project info
 - School Application for managment of Admin , Users , Teachers , Students.
