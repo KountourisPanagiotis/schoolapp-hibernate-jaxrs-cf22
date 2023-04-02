@@ -19,6 +19,6 @@ To install and run the project, follow these steps:
 ## Usage
 Run and connect to database. Login either as : 
 1. Admin : manage Teachers and Users. Search - Insert - Update - Delete functionality
-2. Teacher : search for 
+2. Teacher : search for students. Search - Insert - Update - Delete
 
 (admin password is pulled for matching from system environmental variables)
