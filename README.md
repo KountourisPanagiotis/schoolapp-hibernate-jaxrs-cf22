@@ -5,7 +5,6 @@ Java - Chapter 30. Java Persistence API (JPA) - Hibernate
 
 ## Project info
 - School Application for managment of Admin , Users , Teachers , Students.
-- Athens Univercity of Economics and Business Chapter 30
 - Object Relational Mapping (ORM)
 - Java Persistence API - Hibernate - jaxrs - Maven
 
