@@ -6,7 +6,10 @@ Java - Chapter 30. Java Persistence API (JPA) - Hibernate
 ## Project info
 - School Application for managment of Admin , Users , Teachers , Students.
 - Object Relational Mapping (ORM)
-- Java Persistence API - Hibernate - jaxrs - Maven
+- Java Persistence API - Hibernate 
+- Java API for RESTful Web Services (JAX-RS) 
+- MySql database
+- Maven archetype
 
 ## Installation
 To install and run the project, follow these steps:
